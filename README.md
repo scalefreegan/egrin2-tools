@@ -1,4 +1,4 @@
-This repository has been merge with the [Baliga-lab branch](https://github.com/baliga-lab/egrin2-tools)
+This repository has been merged with the [Baliga-lab branch](https://github.com/baliga-lab/egrin2-tools)
 
 ![cMonkey2 Logo](https://github.com/scalefreegan/egrin2-tools/blob/master/egrin2_logo_80px.png "EGRIN2.0 Logo")
 
